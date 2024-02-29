@@ -2489,7 +2489,7 @@ div.creditButtonStandalone > p > a:is(:hover, :focus)::before { background-color
 }
 .image-block, .scp-image-block {
     border-bottom: solid 0.325rem rgb(var(--basalt-undertone));
-    width: 800px;
+    width: 480px;
     background: rgb(var(--image-caption-background-color));
 }
 :is(.image-block, .scp-image-block) img {
